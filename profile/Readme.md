@@ -1,5 +1,3 @@
-# LILY OSP
-
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
 
 <h1 style="font-size: 3em; color: #ff6347; text-align: center; text-shadow: 2px 2px #ddd;">LILY OSP</h1>
